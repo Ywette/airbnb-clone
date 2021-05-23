@@ -1,0 +1,26 @@
+.home{
+  margin-top: 15px;
+
+}
+.home__section{
+  margin-top: 15px;
+}
+
+  @media all and (max-width: 350px) {
+    /* .home__section {
+      flex-wrap:wrap;
+
+      
+    } */.home__section {
+    flex-wrap:wrap;
+    display: flex;
+    width: 100vw;
+    /* padding: 30px; */      
+    }
+  }
+  @media all and (min-width: 500px) {
+    .home__section{
+    display: flex;
+    }
+    
+  }
