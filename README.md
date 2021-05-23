@@ -1,6 +1,6 @@
 ## introduction to airbnb-clone project
 This project is made in order to learn ReactJs framework.
-This project shows shows:
+This project shows:
 
 * work with created components
 * work with React Router and linked pages (on button click)
