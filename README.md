@@ -7,6 +7,7 @@ This project shows shows:
 * installed calendar with data picker functionality
 * responsive design
 * styling with material-ui
+* connecting and launching with firebase (google firebase)
 
 ## launch
 
