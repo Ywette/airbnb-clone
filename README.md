@@ -1,3 +1,5 @@
+<img src="https://github.com/Ywette/airbnb-clone/blob/master/public/intro.JPG" style="width:700px;" />
+
 ## introduction to airbnb-clone project
 This project is made in order to learn ReactJs framework.
 This project shows:
